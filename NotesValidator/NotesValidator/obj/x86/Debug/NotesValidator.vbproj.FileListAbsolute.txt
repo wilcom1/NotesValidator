@@ -1,0 +1,22 @@
+C:\Users\WILMERMANUEL\AppData\Local\Temporary Projects\NotesValidator\bin\Debug\NotesValidator.exe
+C:\Users\WILMERMANUEL\AppData\Local\Temporary Projects\NotesValidator\bin\Debug\NotesValidator.pdb
+C:\Users\WILMERMANUEL\AppData\Local\Temporary Projects\NotesValidator\bin\Debug\NotesValidator.xml
+C:\Users\WILMERMANUEL\AppData\Local\Temporary Projects\NotesValidator\obj\x86\Debug\NotesValidator.Form1.resources
+C:\Users\WILMERMANUEL\AppData\Local\Temporary Projects\NotesValidator\obj\x86\Debug\NotesValidator.Resources.resources
+C:\Users\WILMERMANUEL\AppData\Local\Temporary Projects\NotesValidator\obj\x86\Debug\NotesValidator.SplashScreen1.resources
+C:\Users\WILMERMANUEL\AppData\Local\Temporary Projects\NotesValidator\obj\x86\Debug\NotesValidator.vbproj.GenerateResource.Cache
+C:\Users\WILMERMANUEL\AppData\Local\Temporary Projects\NotesValidator\obj\x86\Debug\NotesValidator.exe
+C:\Users\WILMERMANUEL\AppData\Local\Temporary Projects\NotesValidator\obj\x86\Debug\NotesValidator.xml
+C:\Users\WILMERMANUEL\AppData\Local\Temporary Projects\NotesValidator\obj\x86\Debug\NotesValidator.pdb
+C:\Users\WILMERMANUEL\documents\visual studio 2010\Projects\NotesValidator\NotesValidator\obj\x86\Debug\NotesValidator.exe
+C:\Users\WILMERMANUEL\documents\visual studio 2010\Projects\NotesValidator\NotesValidator\obj\x86\Debug\NotesValidator.xml
+C:\Users\WILMERMANUEL\documents\visual studio 2010\Projects\NotesValidator\NotesValidator\obj\x86\Debug\NotesValidator.pdb
+C:\Users\WILMERMANUEL\documents\visual studio 2010\Projects\NotesValidator\NotesValidator\obj\x86\Debug\NotesValidator.Form1.resources
+C:\Users\WILMERMANUEL\documents\visual studio 2010\Projects\NotesValidator\NotesValidator\obj\x86\Debug\NotesValidator.Resources.resources
+C:\Users\WILMERMANUEL\documents\visual studio 2010\Projects\NotesValidator\NotesValidator\obj\x86\Debug\NotesValidator.RegisterForm.resources
+C:\Users\WILMERMANUEL\documents\visual studio 2010\Projects\NotesValidator\NotesValidator\obj\x86\Debug\NotesValidator.SplashScreen1.resources
+C:\Users\WILMERMANUEL\documents\visual studio 2010\Projects\NotesValidator\NotesValidator\obj\x86\Debug\NotesValidator.vbproj.GenerateResource.Cache
+C:\Users\WILMERMANUEL\documents\visual studio 2010\Projects\NotesValidator\NotesValidator\bin\Debug\NotesValidator.exe
+C:\Users\WILMERMANUEL\documents\visual studio 2010\Projects\NotesValidator\NotesValidator\bin\Debug\NotesValidator.pdb
+C:\Users\WILMERMANUEL\documents\visual studio 2010\Projects\NotesValidator\NotesValidator\bin\Debug\NotesValidator.xml
+C:\Users\WILMERMANUEL\documents\visual studio 2010\Projects\NotesValidator\NotesValidator\obj\x86\Debug\NotesValidator.ShowCalifications.resources
